@@ -5,5 +5,5 @@
 ### Course Instructor : Jannatul Maowa Hasi
 
 <p align="center"> 
-<img  width="75%" src="https://ibb.co/5RXq5zX">
+<img  width="75%" src="https://i.ibb.co/wzZDKbZ/download.png">
 </p>
