@@ -3,7 +3,7 @@
 // Check if form is submitted
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Establish a connection to your database (replace with your database details)
-    $conn = new mysqli("localhost", "username", "password", "database");
+    $conn = new mysqli("localhost", "root", "", "student");
 
     // Check connection
     if ($conn->connect_error) {
